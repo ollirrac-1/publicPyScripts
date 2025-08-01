@@ -11,7 +11,7 @@ This repository contains Python scripts focused on A/B testing analysis and stat
 ### A/B Testing Scripts
 
 #### `refactored_ab_test.py`
-A heavily modified version of an A/B testing script originally shared on Kaggle.com under the MIT license. The modifications improve:
+A heavily modified version of an A/B testing script originally shared on Kaggle.com under the Apache 2.0 license. The modifications improve:
 - Code flexibility and readability
 - Statistical accuracy through revised statistical tests
 - Overall functionality and usability
